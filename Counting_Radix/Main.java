@@ -7,7 +7,7 @@ public class Main {
 		CountingSort cs = new CountingSort();
 		RadixSort rs = new RadixSort();
 		Leitor leitor = new Leitor();
-		int[] lista = leitor.le("instancias-num/num.1000.1.in");
+		int[] lista = leitor.le("/instancias-num/num.1000.1.in");
 		int[] listaOrdenada = new int[lista.length];
 		int maiorElemento = lista[0];
 		int menorElemento = lista[0];
