@@ -7,6 +7,6 @@ O programa foi escrito em java, logo para executa-lo eh preciso ter a JDK e real
 
 $ javac *.java
 
-$ jar -cvfe SO1.jar SO1 *.class
+$ jar -cvfe Main.jar Main *.class
 
-$ java -jar SO1.jar
+$ java -jar Main.jar
