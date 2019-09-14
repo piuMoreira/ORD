@@ -3,7 +3,7 @@
 
 
 
-O programa foi escrito em java, logo para executa-lo eh preciso ter a JDK e realizar os seguintes comandos no terminal da pasta:
+O programa foi escrito em java, logo para executa-lo eh preciso ter a JDK e realizar os seguintes comandos no terminal da pasta do algorítmo de ordenação desejado:
 
 $ javac *.java
 
